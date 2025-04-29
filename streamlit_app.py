@@ -20,8 +20,8 @@ if not openai_key:
 
 
 st.set_page_config(
-    page_title="Billy",
-    page_icon="💸",
+    page_title="ARC",
+    page_icon="🦷",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -94,7 +94,7 @@ def handle_user_message(user_input: str):
 
 
 def user_inpt():
-    user_input = st.chat_input("Ask Billy...")
+    user_input = st.chat_input("...")
     if user_input:
         handle_user_message(user_input)
 
