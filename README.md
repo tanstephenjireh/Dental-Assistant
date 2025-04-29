@@ -1,7 +1,7 @@
 # 📁 AI Dental Assistant
 
 ## 📝 Description
-A chatbot that asnwer queries, book appointments/calls, and generate leads.
+A chatbot that answer queries, book appointments/calls, and generate leads.
 
 ## 🛠️ Tech Stack
 - Python
