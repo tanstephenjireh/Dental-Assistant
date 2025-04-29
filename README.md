@@ -18,7 +18,7 @@ A chatbot that asnwer queries, book appointments/calls, and generate leads.
 - Generate Leads for Business
 
 ## 📽️ Demo
-[▶️ Watch 2-minute demo on Loom](https://www.loom.com/share/f8aab627420a4bc4a2b584ff3b65200c?sid=0af266a5-a298-4022-8188-db1dba56ebb5)
+[▶️ Watch 2-minute demo on Loom](https://www.loom.com/share/57747cdbad0f4026b0522f5fae7f040e?sid=61cbe790-97a5-4fd7-9cf3-d5aee8c145eb)
 
 ## 🧠 Skills Demonstrated
 - RAG
