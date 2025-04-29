@@ -20,8 +20,8 @@ def knowledge_base(question: str):
     try:
         index_name = 'dclinic'
 
-        # find API key in console at app.pinecone.io
-        PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
+        # # find API key in console at app.pinecone.io
+        # PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 
 
         model_name = 'text-embedding-ada-002'
