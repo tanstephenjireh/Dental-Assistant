@@ -13,7 +13,7 @@ A chatbot that asnwer queries, book appointments/calls, and generate leads.
 - Airtable (for storing dates [calls/appointments])
 - Streamlit (fore demo UI)
 
-## Key Value
+## 🚀 Key Contributions 
 - Streamline booking of appointments
 - Generate Leads for Business
 
